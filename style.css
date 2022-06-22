@@ -1,0 +1,23 @@
+body {background-image:url("baba.png");}
+
+table table {
+  border-collapse: collapse;
+  border: 1px solid white;
+} 
+
+th,td {
+  border: 3px solid white;
+  color:white;
+  background-color:#A52A2A	;
+  padding: 10px;
+}
+
+table {
+  margin-top:20%;
+  margin-top:15%;
+  table-layout: auto;
+  width: 50%;  
+  float: right;
+  font:italic small-caps bold 20px/30px Georgia, serif;
+
+}
